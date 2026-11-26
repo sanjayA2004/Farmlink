@@ -150,10 +150,10 @@ cd ../customer_system && python train.py  # buyer–farmer matches
 ## 👤 Author
 
 **Sanjay A**
-B.E. Computer Science and Engineering (AI & ML), S.J.C. Institute of Technology
+B.E. Computer Science and Engineering (AI & ML), S.J.C. Institute of Technology, VTU Belagavi.
 
 ---
 
 ## 📄 License
 
-Add a license of your choice (for example, MIT) before publishing.
+MIT
